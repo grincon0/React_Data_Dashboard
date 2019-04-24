@@ -2,7 +2,7 @@
 
 ## About
 
-A React data visualzation application to graphically display business data.
+A React data visualzation application that graphically displays business data.
 
 ## Tools
 * React.js
